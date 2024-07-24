@@ -1,7 +1,4 @@
 <html>
-<head>
-    <title>Web for ayang</title>
-</head>
 <body>
     <h1>HAROOOO Web uji coba gweh #1</h1>
     <p>lagi belajar html tapi bingung mau bikin web buat apa yaudah buat ayang aja deh</p>
